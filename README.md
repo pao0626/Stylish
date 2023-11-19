@@ -1,2 +1,2 @@
 # Stylish
- An e-commerce website project."
+ An e-commerce website project.
