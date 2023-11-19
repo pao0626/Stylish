@@ -1,2 +1,2 @@
 # Stylish
- shopping site practice
+ An e-commerce website project."
